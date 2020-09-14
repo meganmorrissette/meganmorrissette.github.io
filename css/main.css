@@ -321,6 +321,13 @@ a:hover {
   height: 225px;
 }
 
+.work-photo3 {
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+
 .work-name {
   font-family: 'CooperHewitt-LightItalic';
   font-size: 22px;

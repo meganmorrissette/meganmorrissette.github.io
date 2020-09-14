@@ -73,7 +73,7 @@ a:hover {
   transition:border-bottom 0.25s ease;
 }
 
-.nav-about, .nav-team, .nav-work, .nav-blog .nav-projects{
+.nav-about, .nav-team, .nav-work, .nav-blog, .nav-projects{
   border-bottom: 3px solid rgb(230,230,230);
 }
 
