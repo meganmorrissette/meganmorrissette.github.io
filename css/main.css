@@ -505,14 +505,14 @@ body.article-detail > header {
 .round {
   -moz-border-radius: 100px;
   border-radius: 100px;
-  border: 1px solid rgb(215,215,215);
-  color: rgb(215,215,215);
+  border: 1px solid rgb(0, 115, 175);
+  color: rgb(0, 115, 175);
   text-align: center;
   width: 40px;
   height: 40px;
   margin-right: 20px;
   display: inline-block;
-  background-color: rgb(215,215,215);
+  background-color: rgb(0, 115, 175);
 }
 
 .round-inside {
